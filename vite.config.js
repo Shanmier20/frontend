@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     allowedHosts: [
       "discriminatively-runniest-wendi.ngrok-free.dev",
-      "frontend-six-psi-68.vercel.app", // ✅ your live Vercel domain
+      "frontendproject-three-ruddy.vercel.app", // ✅ your live Vercel domain
     ],
     proxy: {
       "/api": {
